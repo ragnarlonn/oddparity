@@ -7,4 +7,4 @@ Odd Parity is a company that builds products. We follow the Personal Pain Point 
 * April 6, 2018: [The Puzzle Pirate story](articles/1.md) - making a crossword puzzle app to help my kids learn to read
 * July 31, 2018: [The mctimer story](articles/2.md) - making an app to limit daily Minecraft playing time
 * September 30, 2018: [Savethepictures](articles/3.md) - a secure and privacy-conscious backup solution
-* Coming soon: the Pushdata story - effortless time series data storage
+* November 8, 2018: [The Pushdata story](articles/4.md) - effortless time series data storage
